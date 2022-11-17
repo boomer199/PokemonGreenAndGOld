@@ -13,4 +13,4 @@ Pokémon Green and Gold is a 2d game based on the original Pokémon game, Pokém
 
 install guide coming soon
 # A-I-Design-Project-2021
-# PokemonGreenAndGOld
+# PokemonGreenAndGold
