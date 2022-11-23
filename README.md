@@ -2,7 +2,7 @@
 
 05.18.2022
 
-Everett Villiger, Benjamin Wang, Maximilian Calcoen
+Everett V, Benjamin W, Maximilian C
 
 Algorithms and the Internet 2022
 
